@@ -81,7 +81,6 @@ GitHub ActionsでのCI/CDを設定しています。
 - [Dagsterの公式ドキュメント](https://docs.dagster.io/)
 
 以上の手順で、dbtとDagsterのプロジェクトをローカル環境で構築し、本番環境でのデプロイも視野に入れて設定が可能です。
-```
 
 
 
